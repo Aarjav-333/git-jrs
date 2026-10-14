@@ -1,1 +1,1 @@
-main() -> str
+main() function
